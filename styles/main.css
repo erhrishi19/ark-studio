@@ -14,7 +14,10 @@
 }
 
 .nav_bar {
-    position: sticky;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: auto;
 }
 
 .transparent_nav ul {
