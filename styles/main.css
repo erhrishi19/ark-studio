@@ -59,7 +59,7 @@
     padding: 14px 16px;
 }
 
-.service_wrapper ul {
+.services-wrapper ul {
     display: flex;
     /* flex-direction: row;
     flex-wrap: nowrap;
@@ -67,7 +67,7 @@
     justify-content: space-between;*/
 }
 
-.service_wrapper li {
+.services-wrapper li {
     border: 1px #ccc solid;
     padding: 10px;
     align-items: center;
@@ -99,7 +99,7 @@
     margin: 0;
 }
 
-.testimonials_wrapper ul {
+.testimonials-wrapper ul {
     display: flex;
     /* flex-direction: row;
     flex-wrap: nowrap;
@@ -107,7 +107,7 @@
     justify-content: space-between;*/
 }
 
-.testimonials_wrapper li {
+.testimonials-wrapper li {
     padding: 10px;
     align-items: center;
     text-align: center;
