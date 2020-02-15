@@ -119,14 +119,14 @@ footer {
     padding: 10px;
 }
 
-.footer_widget {
+.footer {
     display: flex;
     justify-content: space-around;
     align-content: center;
     flex-wrap: wrap;
 }
 
-.footer_widget div {
+.footer div {
     width: 25%;
 }
 
